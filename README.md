@@ -1,6 +1,6 @@
 # Code Design Guidelines
 
-This repository includes the code design guidelines used by Windows Platform Team in Plain Concepts.
+This repository includes the Code Design Guidelines for C# used by Windows Platform Team in Plain Concepts.
 
 With this files you could increase your code design guidelines only with a few steps.
 
