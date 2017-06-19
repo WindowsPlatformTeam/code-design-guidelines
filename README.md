@@ -1,8 +1,14 @@
 # Code Design Guidelines
 
-This repository includes the Code Design Guidelines for C# used by Windows Platform Team in Plain Concepts.
+This repository includes the **Code Design Guidelines for C#** used by **Windows Platform Team** in **Plain Concepts**.
 
 With this files you could increase your code design guidelines only with a few steps.
+
+## How this works
+
+Based on [**StyleCop Analyzers for the .NET Compiler Platform**](https://github.com/DotNetAnalyzers/StyleCopAnalyzers). This Code Design Guidelines can be modified and improved by using this [**guide**](https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/Configuration.md).
+
+We use the both solutions showed at [**configuration**](https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/Configuration.md) section of [**StyleCop Analyzers for the .NET Compiler Platform**](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) documentation: [**Code analysis rule set files**(https://docs.microsoft.com/es-es/visualstudio/code-quality/using-rule-sets-to-group-code-analysis-rules) and [**stylecop.json**](https://github.com/DotNetAnalyzers/StyleCopAnalyzers). 
 
 ## How to use
 
